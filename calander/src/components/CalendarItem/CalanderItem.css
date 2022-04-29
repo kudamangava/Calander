@@ -1,0 +1,13 @@
+.item {
+  position: relative;
+  height: 10rem;
+  border: 1px solid #d3d3d3;
+  cursor: pointer;
+}
+
+
+.itemDate {
+  line-height: 0;
+  padding-left: 0.5rem;
+  color: #808080;
+}
